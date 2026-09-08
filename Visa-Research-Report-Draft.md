@@ -103,3 +103,5 @@ This is a synthetic teaching case, not Visa’s valuation. [Week 2 Student Hando
 
 - **My call:** Watch-defer. Visa's operating performance, cash generation, and network scale justify continued research, but I do not yet have a Visa-specific enterprise value and per-share valuation to determine whether the stock offers enough value relative to its risks.
 - **What would change my call:** I would move to initiate only if a completed Visa-specific valuation and bridge show a sufficient margin of safety and further research indicates that litigation and competitive pressures are unlikely to materially weaken long-term free-cash-flow growth.
+
+AI assisted reqrite. I verified the cited sources, made all investment judgements, and made the final investment call.
