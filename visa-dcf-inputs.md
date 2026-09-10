@@ -165,3 +165,5 @@ WACC \ g          2.0%      3.0%      4.0%
 - **Conditional Call:**
   - **Watch-defer.** Initiate only below **$331.00** or upon verified evidence justifying >12.6% growth; monitor quarterly **client incentives vs. gross revenue** in the 10-Q.
 
+
+This is not investment advice.
