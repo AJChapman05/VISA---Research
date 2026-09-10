@@ -144,3 +144,4 @@ At 0.90× of market price (an ~10.2% discount), the base-case valuation is econo
   - Implied Growth: At today's price of **$368.65**, the Reverse DCF solves to **12.56% annual FCFF growth** for five straight years (**+256 bps** above the 10.0% base case).
 - **Conditional Call:**
   - **Watch-defer.** Initiate only below **$331.00** or upon verified evidence justifying >12.6% growth; monitor quarterly **client incentives vs. gross revenue** in the 10-Q.
+This is not investment advice
