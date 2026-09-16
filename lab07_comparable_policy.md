@@ -82,3 +82,5 @@ averaging the two methods.
 - Calculator: `lab07_pe_comps.py`
 - Write-up: `lab07_comparable_policy.md`
 - Run command: `python3 lab07_pe_comps.py`
+
+This is not financial advice
