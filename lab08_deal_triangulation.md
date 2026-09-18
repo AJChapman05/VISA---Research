@@ -112,3 +112,5 @@ supports higher sustainable cash flow or a more comparable peer multiple.
 - Calculator: `lab07_pe_comps.py`
 - Write-up: `lab08_deal_triangulation.md`
 - Run command: `python3 lab07_pe_comps.py`
+
+This is not financial advice.
