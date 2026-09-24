@@ -76,3 +76,5 @@ The base model produces **$294.79 per share** (run output is the governing round
 ## Reflection
 
 The label I would defend longest is the historical 31.9% D&A-to-opening-PP&E ratio because both numerator and denominator come directly from the same filing and have a clear accounting relationship. The surprising filing number was $15.751 billion of client incentives in FY2025: it is large enough that small changes in incentive economics can matter even for a company with Visa's high margins.
+
+This is not financial advice
