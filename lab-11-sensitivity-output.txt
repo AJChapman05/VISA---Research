@@ -1,0 +1,358 @@
+
+==============================================================================
+ORIGINAL BASE CASE (all independent inputs at base)
+
+INCOME STATEMENT (USD millions)
+                                       2026E        2027E        2028E        2029E        2030E
+Net revenue                        44,000.0    48,400.0    53,240.0    58,564.0    64,420.4
+Operating costs excl. D&A         -13,640.0   -15,004.0   -16,504.4   -18,154.8   -19,970.3
+Depreciation & amortization        -1,351.4    -1,481.8    -1,626.7    -1,787.1    -1,964.3
+Operating income                   29,008.6    31,914.2    35,108.9    38,622.0    42,485.7
+Interest expense                     -589.0      -589.0      -589.0      -589.0      -589.0
+Pretax income                      28,419.6    31,325.2    34,519.9    38,033.0    41,896.7
+Tax                                -4,858.4    -5,355.1    -5,901.2    -6,501.8    -7,162.3
+Net income                         23,561.2    25,970.1    28,618.7    31,531.2    34,734.4
+
+BALANCE SHEET (USD millions)
+                                       2026E        2027E        2028E        2029E        2030E
+Cash & equivalents                 25,516.6    36,232.5    49,548.3    65,724.1    85,046.1
+PP&E and technology                 4,644.6     5,098.8     5,601.7     6,157.1     6,769.6
+Other assets                       78,307.0    78,395.0    78,491.8    78,598.3    78,715.4
+Debt                               25,171.0    25,171.0    25,171.0    25,171.0    25,171.0
+Other liabilities                  36,627.0    36,715.0    36,811.8    36,918.3    37,035.4
+Revolver                                0.0         0.0         0.0         0.0         0.0
+Equity                             46,670.2    57,840.3    71,659.0    88,390.2   108,324.6
+
+CASH FLOW / FCFE (USD millions)
+                                       2026E        2027E        2028E        2029E        2030E
+Net income                         23,561.2    25,970.1    28,618.7    31,531.2    34,734.4
+Depreciation & amortization         1,351.4     1,481.8     1,626.7     1,787.1     1,964.3
+Capital spending                   -1,760.0    -1,936.0    -2,129.6    -2,342.6    -2,576.8
+Change in other operating assets       -80.0       -88.0       -96.8      -106.5      -117.1
+Change in other liabilities            80.0        88.0        96.8       106.5       117.1
+FCFE before distributions          23,152.6    25,515.9    28,115.8    30,975.8    34,122.0
+Dividends                          -4,800.0    -4,800.0    -4,800.0    -4,800.0    -4,800.0
+Share repurchases                 -10,000.0   -10,000.0   -10,000.0   -10,000.0   -10,000.0
+Change in cash                      8,352.6    10,715.9    13,315.8    16,175.8    19,322.0
+
+CHECKS
+                                       2026E        2027E        2028E        2029E        2030E
+Assets - liabilities - equity          -0.0         0.0         0.0         0.0         0.0
+Cash above minimum                 20,516.6    31,232.5    44,548.3    60,724.1    80,046.1
+
+FY2030E outputs (USD millions except value per share)
+Operating income               42,485.7  Change vs. base: +0.0
+FCFE before distributions      34,122.0  Change vs. base: +0.0
+Value per share ($)            294.79  Change vs. base: +0.00
+
+##############################################################################
+DRIVER: Net-revenue growth (FY2026E-FY2030E)
+
+Changed input: Net-revenue growth = 8.0% (percent of prior-year net revenue); scenario = Lower
+
+==============================================================================
+Net-revenue growth — Lower
+
+INCOME STATEMENT (USD millions)
+                                       2026E        2027E        2028E        2029E        2030E
+Net revenue                        43,200.0    46,656.0    50,388.5    54,419.6    58,773.1
+Operating costs excl. D&A         -13,392.0   -14,463.4   -15,620.4   -16,870.1   -18,219.7
+Depreciation & amortization        -1,351.4    -1,471.6    -1,597.5    -1,730.9    -1,873.1
+Operating income                   28,456.6    30,721.1    33,170.6    35,818.6    38,680.3
+Interest expense                     -589.0      -589.0      -589.0      -589.0      -589.0
+Pretax income                      27,867.6    30,132.1    32,581.6    35,229.6    38,091.3
+Tax                                -4,764.0    -5,151.1    -5,569.9    -6,022.6    -6,511.8
+Net income                         23,103.6    24,980.9    27,011.7    29,207.1    31,579.6
+
+BALANCE SHEET (USD millions)
+                                       2026E        2027E        2028E        2029E        2030E
+Cash & equivalents                 25,091.0    34,877.3    46,670.9    60,632.1    76,933.8
+PP&E and technology                 4,612.6     5,007.2     5,425.3     5,871.2     6,349.0
+Other assets                       78,291.0    78,360.1    78,434.8    78,515.4    78,602.5
+Debt                               25,171.0    25,171.0    25,171.0    25,171.0    25,171.0
+Other liabilities                  36,611.0    36,680.1    36,754.8    36,835.4    36,922.5
+Revolver                                0.0         0.0         0.0         0.0         0.0
+Equity                             46,212.6    56,393.5    68,605.2    83,012.3    99,791.8
+
+CASH FLOW / FCFE (USD millions)
+                                       2026E        2027E        2028E        2029E        2030E
+Net income                         23,103.6    24,980.9    27,011.7    29,207.1    31,579.6
+Depreciation & amortization         1,351.4     1,471.6     1,597.5     1,730.9     1,873.1
+Capital spending                   -1,728.0    -1,866.2    -2,015.5    -2,176.8    -2,350.9
+Change in other operating assets       -64.0       -69.1       -74.6       -80.6       -87.1
+Change in other liabilities            64.0        69.1        74.6        80.6        87.1
+FCFE before distributions          22,727.0    24,586.3    26,593.6    28,761.2    31,101.8
+Dividends                          -4,800.0    -4,800.0    -4,800.0    -4,800.0    -4,800.0
+Share repurchases                 -10,000.0   -10,000.0   -10,000.0   -10,000.0   -10,000.0
+Change in cash                      7,927.0     9,786.3    11,793.6    13,961.2    16,301.8
+
+CHECKS
+                                       2026E        2027E        2028E        2029E        2030E
+Assets - liabilities - equity           0.0        -0.0        -0.0        -0.0         0.0
+Cash above minimum                 20,091.0    29,877.3    41,670.9    55,632.1    71,933.8
+
+FY2030E outputs (USD millions except value per share)
+Operating income               38,680.3  Change vs. base: -3,805.4
+FCFE before distributions      31,101.8  Change vs. base: -3,020.2
+Value per share ($)            270.77  Change vs. base: -24.02
+
+Changed input: Net-revenue growth = 10.0% (percent of prior-year net revenue); scenario = Base
+
+==============================================================================
+Net-revenue growth — Base
+
+INCOME STATEMENT (USD millions)
+                                       2026E        2027E        2028E        2029E        2030E
+Net revenue                        44,000.0    48,400.0    53,240.0    58,564.0    64,420.4
+Operating costs excl. D&A         -13,640.0   -15,004.0   -16,504.4   -18,154.8   -19,970.3
+Depreciation & amortization        -1,351.4    -1,481.8    -1,626.7    -1,787.1    -1,964.3
+Operating income                   29,008.6    31,914.2    35,108.9    38,622.0    42,485.7
+Interest expense                     -589.0      -589.0      -589.0      -589.0      -589.0
+Pretax income                      28,419.6    31,325.2    34,519.9    38,033.0    41,896.7
+Tax                                -4,858.4    -5,355.1    -5,901.2    -6,501.8    -7,162.3
+Net income                         23,561.2    25,970.1    28,618.7    31,531.2    34,734.4
+
+BALANCE SHEET (USD millions)
+                                       2026E        2027E        2028E        2029E        2030E
+Cash & equivalents                 25,516.6    36,232.5    49,548.3    65,724.1    85,046.1
+PP&E and technology                 4,644.6     5,098.8     5,601.7     6,157.1     6,769.6
+Other assets                       78,307.0    78,395.0    78,491.8    78,598.3    78,715.4
+Debt                               25,171.0    25,171.0    25,171.0    25,171.0    25,171.0
+Other liabilities                  36,627.0    36,715.0    36,811.8    36,918.3    37,035.4
+Revolver                                0.0         0.0         0.0         0.0         0.0
+Equity                             46,670.2    57,840.3    71,659.0    88,390.2   108,324.6
+
+CASH FLOW / FCFE (USD millions)
+                                       2026E        2027E        2028E        2029E        2030E
+Net income                         23,561.2    25,970.1    28,618.7    31,531.2    34,734.4
+Depreciation & amortization         1,351.4     1,481.8     1,626.7     1,787.1     1,964.3
+Capital spending                   -1,760.0    -1,936.0    -2,129.6    -2,342.6    -2,576.8
+Change in other operating assets       -80.0       -88.0       -96.8      -106.5      -117.1
+Change in other liabilities            80.0        88.0        96.8       106.5       117.1
+FCFE before distributions          23,152.6    25,515.9    28,115.8    30,975.8    34,122.0
+Dividends                          -4,800.0    -4,800.0    -4,800.0    -4,800.0    -4,800.0
+Share repurchases                 -10,000.0   -10,000.0   -10,000.0   -10,000.0   -10,000.0
+Change in cash                      8,352.6    10,715.9    13,315.8    16,175.8    19,322.0
+
+CHECKS
+                                       2026E        2027E        2028E        2029E        2030E
+Assets - liabilities - equity          -0.0         0.0         0.0         0.0         0.0
+Cash above minimum                 20,516.6    31,232.5    44,548.3    60,724.1    80,046.1
+
+FY2030E outputs (USD millions except value per share)
+Operating income               42,485.7  Change vs. base: +0.0
+FCFE before distributions      34,122.0  Change vs. base: +0.0
+Value per share ($)            294.79  Change vs. base: +0.00
+
+Changed input: Net-revenue growth = 12.0% (percent of prior-year net revenue); scenario = Higher
+
+==============================================================================
+Net-revenue growth — Higher
+
+INCOME STATEMENT (USD millions)
+                                       2026E        2027E        2028E        2029E        2030E
+Net revenue                        44,800.0    50,176.0    56,197.1    62,940.8    70,493.7
+Operating costs excl. D&A         -13,888.0   -15,554.6   -17,421.1   -19,511.6   -21,853.0
+Depreciation & amortization        -1,351.4    -1,492.0    -1,656.3    -1,845.0    -2,059.6
+Operating income                   29,560.6    33,129.4    37,119.7    41,584.1    46,581.0
+Interest expense                     -589.0      -589.0      -589.0      -589.0      -589.0
+Pretax income                      28,971.6    32,540.4    36,530.7    40,995.1    45,992.0
+Tax                                -4,952.7    -5,562.8    -6,245.0    -7,008.2    -7,862.4
+Net income                         24,018.8    26,977.6    30,285.7    33,986.9    38,129.6
+
+BALANCE SHEET (USD millions)
+                                       2026E        2027E        2028E        2029E        2030E
+Cash & equivalents                 25,942.3    37,604.8    52,499.0    71,013.3    93,582.8
+PP&E and technology                 4,676.6     5,191.6     5,783.2     6,455.8     7,215.9
+Other assets                       78,323.0    78,430.5    78,550.9    78,685.8    78,836.9
+Debt                               25,171.0    25,171.0    25,171.0    25,171.0    25,171.0
+Other liabilities                  36,643.0    36,750.5    36,870.9    37,005.8    37,156.9
+Revolver                                0.0         0.0         0.0         0.0         0.0
+Equity                             47,127.8    59,305.4    74,791.2    93,978.1   117,307.7
+
+CASH FLOW / FCFE (USD millions)
+                                       2026E        2027E        2028E        2029E        2030E
+Net income                         24,018.8    26,977.6    30,285.7    33,986.9    38,129.6
+Depreciation & amortization         1,351.4     1,492.0     1,656.3     1,845.0     2,059.6
+Capital spending                   -1,792.0    -2,007.0    -2,247.9    -2,517.6    -2,819.7
+Change in other operating assets       -96.0      -107.5      -120.4      -134.9      -151.1
+Change in other liabilities            96.0       107.5       120.4       134.9       151.1
+FCFE before distributions          23,578.3    26,462.6    29,694.2    33,314.3    37,369.5
+Dividends                          -4,800.0    -4,800.0    -4,800.0    -4,800.0    -4,800.0
+Share repurchases                 -10,000.0   -10,000.0   -10,000.0   -10,000.0   -10,000.0
+Change in cash                      8,778.3    11,662.6    14,894.2    18,514.3    22,569.5
+
+CHECKS
+                                       2026E        2027E        2028E        2029E        2030E
+Assets - liabilities - equity           0.0         0.0         0.0         0.0         0.0
+Cash above minimum                 20,942.3    32,604.8    47,499.0    66,013.3    88,582.8
+
+FY2030E outputs (USD millions except value per share)
+Operating income               46,581.0  Change vs. base: +4,095.3
+FCFE before distributions      37,369.5  Change vs. base: +3,247.5
+Value per share ($)            320.53  Change vs. base: +25.74
+
+Output span across valid Lower/Base/Higher runs (maximum minus minimum):
+FY2030E operating income                  7,900.7
+FY2030E FCFE before distributions         6,267.7
+Value per share ($)                       49.76
+
+##############################################################################
+DRIVER: Operating-cost ratio excluding D&A (FY2026E-FY2030E)
+
+Changed input: Operating-cost ratio excluding D&A = 33.0% (percent of net revenue); scenario = Lower
+
+==============================================================================
+Operating-cost ratio excluding D&A — Lower
+
+INCOME STATEMENT (USD millions)
+                                       2026E        2027E        2028E        2029E        2030E
+Net revenue                        44,000.0    48,400.0    53,240.0    58,564.0    64,420.4
+Operating costs excl. D&A         -14,520.0   -15,972.0   -17,569.2   -19,326.1   -21,258.7
+Depreciation & amortization        -1,351.4    -1,481.8    -1,626.7    -1,787.1    -1,964.3
+Operating income                   28,128.6    30,946.2    34,044.1    37,450.7    41,197.3
+Interest expense                     -589.0      -589.0      -589.0      -589.0      -589.0
+Pretax income                      27,539.6    30,357.2    33,455.1    36,861.7    40,608.3
+Tax                                -4,707.9    -5,189.6    -5,719.2    -6,301.6    -6,942.1
+Net income                         22,831.6    25,167.6    27,735.9    30,560.2    33,666.3
+
+BALANCE SHEET (USD millions)
+                                       2026E        2027E        2028E        2029E        2030E
+Cash & equivalents                 24,787.1    34,700.5    47,133.5    62,338.2    80,592.0
+PP&E and technology                 4,644.6     5,098.8     5,601.7     6,157.1     6,769.6
+Other assets                       78,307.0    78,395.0    78,491.8    78,598.3    78,715.4
+Debt                               25,171.0    25,171.0    25,171.0    25,171.0    25,171.0
+Other liabilities                  36,627.0    36,715.0    36,811.8    36,918.3    37,035.4
+Revolver                                0.0         0.0         0.0         0.0         0.0
+Equity                             45,940.6    56,308.2    69,244.1    85,004.3   103,870.6
+
+CASH FLOW / FCFE (USD millions)
+                                       2026E        2027E        2028E        2029E        2030E
+Net income                         22,831.6    25,167.6    27,735.9    30,560.2    33,666.3
+Depreciation & amortization         1,351.4     1,481.8     1,626.7     1,787.1     1,964.3
+Capital spending                   -1,760.0    -1,936.0    -2,129.6    -2,342.6    -2,576.8
+Change in other operating assets       -80.0       -88.0       -96.8      -106.5      -117.1
+Change in other liabilities            80.0        88.0        96.8       106.5       117.1
+FCFE before distributions          22,423.1    24,713.4    27,233.0    30,004.8    33,053.8
+Dividends                          -4,800.0    -4,800.0    -4,800.0    -4,800.0    -4,800.0
+Share repurchases                 -10,000.0   -10,000.0   -10,000.0   -10,000.0   -10,000.0
+Change in cash                      7,623.1     9,913.4    12,433.0    15,204.8    18,253.8
+
+CHECKS
+                                       2026E        2027E        2028E        2029E        2030E
+Assets - liabilities - equity          -0.0         0.0        -0.0         0.0         0.0
+Cash above minimum                 19,787.1    29,700.5    42,133.5    57,338.2    75,592.0
+
+FY2030E outputs (USD millions except value per share)
+Operating income               41,197.3  Change vs. base: -1,288.4
+FCFE before distributions      33,053.8  Change vs. base: -1,068.2
+Value per share ($)            285.55  Change vs. base: -9.23
+
+Changed input: Operating-cost ratio excluding D&A = 31.0% (percent of net revenue); scenario = Base
+
+==============================================================================
+Operating-cost ratio excluding D&A — Base
+
+INCOME STATEMENT (USD millions)
+                                       2026E        2027E        2028E        2029E        2030E
+Net revenue                        44,000.0    48,400.0    53,240.0    58,564.0    64,420.4
+Operating costs excl. D&A         -13,640.0   -15,004.0   -16,504.4   -18,154.8   -19,970.3
+Depreciation & amortization        -1,351.4    -1,481.8    -1,626.7    -1,787.1    -1,964.3
+Operating income                   29,008.6    31,914.2    35,108.9    38,622.0    42,485.7
+Interest expense                     -589.0      -589.0      -589.0      -589.0      -589.0
+Pretax income                      28,419.6    31,325.2    34,519.9    38,033.0    41,896.7
+Tax                                -4,858.4    -5,355.1    -5,901.2    -6,501.8    -7,162.3
+Net income                         23,561.2    25,970.1    28,618.7    31,531.2    34,734.4
+
+BALANCE SHEET (USD millions)
+                                       2026E        2027E        2028E        2029E        2030E
+Cash & equivalents                 25,516.6    36,232.5    49,548.3    65,724.1    85,046.1
+PP&E and technology                 4,644.6     5,098.8     5,601.7     6,157.1     6,769.6
+Other assets                       78,307.0    78,395.0    78,491.8    78,598.3    78,715.4
+Debt                               25,171.0    25,171.0    25,171.0    25,171.0    25,171.0
+Other liabilities                  36,627.0    36,715.0    36,811.8    36,918.3    37,035.4
+Revolver                                0.0         0.0         0.0         0.0         0.0
+Equity                             46,670.2    57,840.3    71,659.0    88,390.2   108,324.6
+
+CASH FLOW / FCFE (USD millions)
+                                       2026E        2027E        2028E        2029E        2030E
+Net income                         23,561.2    25,970.1    28,618.7    31,531.2    34,734.4
+Depreciation & amortization         1,351.4     1,481.8     1,626.7     1,787.1     1,964.3
+Capital spending                   -1,760.0    -1,936.0    -2,129.6    -2,342.6    -2,576.8
+Change in other operating assets       -80.0       -88.0       -96.8      -106.5      -117.1
+Change in other liabilities            80.0        88.0        96.8       106.5       117.1
+FCFE before distributions          23,152.6    25,515.9    28,115.8    30,975.8    34,122.0
+Dividends                          -4,800.0    -4,800.0    -4,800.0    -4,800.0    -4,800.0
+Share repurchases                 -10,000.0   -10,000.0   -10,000.0   -10,000.0   -10,000.0
+Change in cash                      8,352.6    10,715.9    13,315.8    16,175.8    19,322.0
+
+CHECKS
+                                       2026E        2027E        2028E        2029E        2030E
+Assets - liabilities - equity          -0.0         0.0         0.0         0.0         0.0
+Cash above minimum                 20,516.6    31,232.5    44,548.3    60,724.1    80,046.1
+
+FY2030E outputs (USD millions except value per share)
+Operating income               42,485.7  Change vs. base: +0.0
+FCFE before distributions      34,122.0  Change vs. base: +0.0
+Value per share ($)            294.79  Change vs. base: +0.00
+
+Changed input: Operating-cost ratio excluding D&A = 29.0% (percent of net revenue); scenario = Higher
+
+==============================================================================
+Operating-cost ratio excluding D&A — Higher
+
+INCOME STATEMENT (USD millions)
+                                       2026E        2027E        2028E        2029E        2030E
+Net revenue                        44,000.0    48,400.0    53,240.0    58,564.0    64,420.4
+Operating costs excl. D&A         -12,760.0   -14,036.0   -15,439.6   -16,983.6   -18,681.9
+Depreciation & amortization        -1,351.4    -1,481.8    -1,626.7    -1,787.1    -1,964.3
+Operating income                   29,888.6    32,882.2    36,173.7    39,793.3    43,774.1
+Interest expense                     -589.0      -589.0      -589.0      -589.0      -589.0
+Pretax income                      29,299.6    32,293.2    35,584.7    39,204.3    43,185.1
+Tax                                -5,008.8    -5,520.6    -6,083.3    -6,702.0    -7,382.6
+Net income                         24,290.8    26,772.6    29,501.4    32,502.3    35,802.6
+
+BALANCE SHEET (USD millions)
+                                       2026E        2027E        2028E        2029E        2030E
+Cash & equivalents                 26,246.2    37,764.6    51,963.2    69,110.0    89,500.1
+PP&E and technology                 4,644.6     5,098.8     5,601.7     6,157.1     6,769.6
+Other assets                       78,307.0    78,395.0    78,491.8    78,598.3    78,715.4
+Debt                               25,171.0    25,171.0    25,171.0    25,171.0    25,171.0
+Other liabilities                  36,627.0    36,715.0    36,811.8    36,918.3    37,035.4
+Revolver                                0.0         0.0         0.0         0.0         0.0
+Equity                             47,399.8    59,372.4    74,073.8    91,776.1   112,778.7
+
+CASH FLOW / FCFE (USD millions)
+                                       2026E        2027E        2028E        2029E        2030E
+Net income                         24,290.8    26,772.6    29,501.4    32,502.3    35,802.6
+Depreciation & amortization         1,351.4     1,481.8     1,626.7     1,787.1     1,964.3
+Capital spending                   -1,760.0    -1,936.0    -2,129.6    -2,342.6    -2,576.8
+Change in other operating assets       -80.0       -88.0       -96.8      -106.5      -117.1
+Change in other liabilities            80.0        88.0        96.8       106.5       117.1
+FCFE before distributions          23,882.2    26,318.4    28,998.5    31,946.8    35,190.1
+Dividends                          -4,800.0    -4,800.0    -4,800.0    -4,800.0    -4,800.0
+Share repurchases                 -10,000.0   -10,000.0   -10,000.0   -10,000.0   -10,000.0
+Change in cash                      9,082.2    11,518.4    14,198.5    17,146.8    20,390.1
+
+CHECKS
+                                       2026E        2027E        2028E        2029E        2030E
+Assets - liabilities - equity          -0.0         0.0         0.0        -0.0        -0.0
+Cash above minimum                 21,246.2    32,764.6    46,963.2    64,110.0    84,500.1
+
+FY2030E outputs (USD millions except value per share)
+Operating income               43,774.1  Change vs. base: +1,288.4
+FCFE before distributions      35,190.1  Change vs. base: +1,068.2
+Value per share ($)            304.02  Change vs. base: +9.23
+
+Output span across valid Lower/Base/Higher runs (maximum minus minimum):
+FY2030E operating income                  2,576.8
+FY2030E FCFE before distributions         2,136.3
+Value per share ($)                       18.47
+
+==============================================================================
+RESTORED BASE CASE CHECK
+Inputs restored to base: PASS
+Outputs match original base within displayed rounding: PASS
+FY2030E operating income        original 42,485.7 | restored 42,485.7
+FY2030E FCFE before distributions original 34,122.0 | restored 34,122.0
+Value per share                 original 294.79 | restored 294.79
