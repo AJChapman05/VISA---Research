@@ -127,12 +127,4 @@ The result does not change my valuation question: the model value remains below 
 
 **Whether my prediction was correct; if not, why it differed from the actual output:** My prediction was correct: lower revenue growth and a higher operating-cost ratio reduced operating income, FCFE, and value per share. Revenue growth had the larger effect because it compounds through every forecast year and influences terminal value.
 
-## Submission Checklist
-
-- [ ] Actual timestamp entered in the locked changed-input record
-- [ ] Actual partner notes entered for all three exchanges
-- [ ] Visible base output included
-- [ ] Visible sensitivity output included
-- [x] Restored-base check passed
-- [x] All accounting checks passed
-- [ ] Python file and Markdown file committed and pushed to my personal GitHub repository
+This is not investment advice
