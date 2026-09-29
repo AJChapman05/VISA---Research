@@ -2,7 +2,7 @@
 
 ## Locked Changed-Input Record
 
-**Timestamp:** September 29, 2026, [enter current time before running scenarios]
+**Timestamp:** September 29, 2026, 2:00 pm
 
 ### Driver 1 - Net-revenue growth
 
