@@ -69,3 +69,5 @@ For Meridian, S2 is the return objective; S1 describes time horizon and rebalanc
 A portfolio can pass every coded rule and still be unsuitable because the checker only tests measurable restrictions. It cannot decide whether a portfolio has enough expected return to pursue the CPI plus 4% objective, whether it fits the benchmark’s intended role, or what risk measure the CIO means in S9.
 
 The most difficult classification was S4 because a benchmark can be used only to evaluate performance, but it can also signal the CIO’s preferred long-term risk exposure. The CIO must clarify which role the benchmark plays before the portfolio is optimized.
+
+This is Not Financial Advice
