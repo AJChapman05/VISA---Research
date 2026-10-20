@@ -46,3 +46,5 @@ Portfolio variance =
 Portfolio volatility = √0.010944 = 0.1046 = 10.46%.
 
 The correlation term is included in the third part of the formula. Because the bond/equity correlation is below +1, diversification reduces portfolio risk.
+
+This is not financial advice
