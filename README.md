@@ -68,3 +68,5 @@ A naive backtest would incorrectly claim that the strategy could react to
 information released after the decision date. It would overstate the signal
 quality and could make the strategy appear more profitable than it would have
 been in real trading.
+
+This is not financial advice. This is for educational and research purposes.
